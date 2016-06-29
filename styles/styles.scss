@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    color: #545454;
+    font-family: sans-serif;
+    header {
+        background-color: #fff;
+        text-align: left;
+        img {
+            width: 100%;
+        }
+    }
+    main {
+        background-color: #EEE;
+        width: 100%;
+        h2 {
+            margin-top: 0;
+            padding-top: 3rem;
+            padding-bottom: 1rem;
+            font-size: 2rem;
+        }
+        div {
+          padding-bottom: 5rem;
+        }
+    }
+    footer {
+        background-color: #4B484F;
+        padding: 2rem;
+        color: #A5A4A9;
+    }
+}
